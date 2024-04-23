@@ -17,7 +17,7 @@ int main() {
     cin>>fc[i].name;
     cout<<"Enter the genre of publisher: ";
     cin>>fc[i].genre;
-    cout<<"Enter the city of football club: ";
+    cout<<"Enter the city of publisher : ";
     cin>>fc[i].city;
     }
     for(i=0; i<n; i++)
